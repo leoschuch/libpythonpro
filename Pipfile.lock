@@ -199,10 +199,10 @@
         },
         "pytest-mock": {
             "hashes": [
-                "sha256:5564c7cd2569b603f8451ec77928083054d8896046830ca763ed68f4112d17c7",
-                "sha256:7122d55505d5ed5a6f3df940ad174b3f606ecae5e9bc379569cdcbd4cd9d2b83"
+                "sha256:5112bd92cc9f186ee96e1a92efc84969ea494939c3aead39c50f421c4cc69534",
+                "sha256:6cff27cec936bf81dc5ee87f07132b807bcda51106b5ec4b90a04331cba76231"
             ],
-            "version": "==3.2.0"
+            "version": "==3.7.0"
         },
         "six": {
             "hashes": [
